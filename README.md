@@ -86,48 +86,6 @@ This project showcases how AI can accelerate development while maintaining code 
 3. Scroll down and tap "Add to Home Screen"
 4. Tap "Add" to confirm
 
-## Setup and Run Locally
-
-1. Clone the repository:
-```bash
-git clone <your-repo-url>
-cd sokoban
-```
-
-2. Open `index.html` in a web browser, or use a local server:
-```bash
-# Python 3
-python3 -m http.server 8000
-
-# Node.js (with http-server installed)
-npx http-server -p 8000
-
-# PHP
-php -S localhost:8000
-```
-
-3. Open `http://localhost:8000` in your browser
-
-**Note**: PWA features require HTTPS or localhost to work properly.
-
-## Deployment
-
-### GitHub Pages (Recommended)
-1. Push the code to your GitHub repository
-2. Go to repository Settings > Pages
-3. Select the branch (usually `main`)
-4. Select `/root` as the directory
-5. Click Save
-6. Your game will be live at `https://<username>.github.io/<repo-name>/`
-
-### Other Static Hosting
-The game works on any static hosting service that supports HTTPS:
-- Netlify
-- Vercel
-- Cloudflare Pages
-- AWS S3 + CloudFront
-
-Simply upload all files (including `manifest.json` and `sw.js`) to your host.
 
 ## Project Structure
 
