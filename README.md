@@ -9,36 +9,6 @@ A responsive, multi-level Sokoban puzzle game built with HTML, CSS, and JavaScri
 
 ---
 
-## 🤖 Built with AI - A Claude Code Showcase
-
-This project is a demonstration of how **Claude Code** (Anthropic's AI-powered CLI tool) can be leveraged to build a complete, production-ready application with precision and efficiency.
-
-### What Claude Code Helped Build:
-
-✨ **Complete Game Development**
-- Designed and implemented 15 progressively challenging Sokoban levels
-- Created responsive layouts that work on all devices
-- Implemented PWA features for offline play
-- Added smooth animations and celebration effects
-
-🎨 **Visual Design**
-- Crafted three distinct themes (Classic, Dark, Light)
-- Created intuitive touch controls with swipe gestures
-- Designed animated menus with bouncing box logo
-- Built celebration effects with confetti
-
-🔧 **Technical Implementation**
-- Pure JavaScript implementation (no frameworks)
-- Service Worker for offline caching
-- PWA manifest for installable app
-- Local storage for game progress and best scores
-
-📱 **Mobile-First Experience**
-- Touch swipe controls
-- Responsive grid-based layout
-- Adaptive icon system
-- Installable as home screen app
-
 This project showcases how AI can accelerate development while maintaining code quality, proper structure, and attention to detail. Every feature was implemented through thoughtful iteration and refinement with Claude Code's assistance.
 
 ---
