@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Icon generation tools (not needed in production)
+create-icons.js
+generate-icons.html
+resize-icons.html
+resize-user-icon.js
+validate-levels.js
+validate-current.js
+
+# Source icon (not needed, using generated icons)
+icon_soko.png
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
