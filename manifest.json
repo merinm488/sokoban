@@ -1,5 +1,5 @@
 {
-  "name": "Sokoban Puzzle Game",
+  "name": "Sokoban",
   "short_name": "Sokoban",
   "description": "Push boxes to targets in this classic puzzle game!",
   "start_url": "./index.html",
